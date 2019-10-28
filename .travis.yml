@@ -12,6 +12,8 @@ before_script:
 language: python
 python:
   - "3.6"
+  - "3.3"
+  - "2.7"
 env:
   - DJANGO_VERSION=2.1.13
   - DJANGO_VERSION=2.2.6  
